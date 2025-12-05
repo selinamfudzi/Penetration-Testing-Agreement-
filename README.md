@@ -1,2 +1,2 @@
 # Penetration-Testing-Agreement-
-A pentest agreement between ParoCyber and a pentester
+A pentest agreement between ParoCyber and pentester(me).
